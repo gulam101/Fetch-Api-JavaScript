@@ -76,7 +76,7 @@ Development changes tracks the changes that happend to the project. It orders it
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type (For more information on Content-Type)
 
 ### Screenshots:
-
+![img01](https://user-images.githubusercontent.com/45819118/121822472-26eb1280-cc97-11eb-93ca-0fd9a39eadb1.PNG)
 
 ### Credits:
 - https://www.youtube.com/watch?v=cuEtnrL9-H0 (Web Dev Simplified)
