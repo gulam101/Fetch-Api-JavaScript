@@ -38,6 +38,9 @@ Using Fetch Api's for JS
 ### Description: 
 Today I decided to focus on calling and catching API's. For the API, I used Reqres to test fake data that was being genereated and I converted the data to JSON format. I also used the 'Catch' command to log the error in the console log, allowing me to test the API and seeing the error being logged if there was a problem. The error would only be displayed if the API key was modified. If I wanted to see if the API was working, I could create response in the console log by using 'res.ok' and then passing a success message.
 
+
+To fetch specific data from the API, I used the 'headers' commnd and this allows me to parse in the JSON command so that my data can be readable. With the headers command you can do a lot more and request different types of data, but for this I was only going to be using JSON to return my data.
+
 ### Prerequisites:
 - Any Modern Browser (Preferably Chrome or Firefox)
 - Any IDE to view code (Preferably VS Code or Brackets)
