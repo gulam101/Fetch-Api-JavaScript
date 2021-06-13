@@ -72,6 +72,7 @@ Development changes tracks the changes that happend to the project. It orders it
 ### Resources:
 - https://reqres.in/ (For test API)
 - https://www.w3schools.com/js/js_errors.asp (Better understanding of Throw and Try to Catch)
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type (For more information on Content-Type)
 
 ### Screenshots:
 
