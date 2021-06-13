@@ -58,6 +58,7 @@ To fetch specific data from the API, I used the 'headers' commnd and this allows
 - Fecthing API
 - Using RES to send back HTTP response & converting data into JSON format
 - Using catch to log the error
+- Using Content-Type to display specific information
 
 ### Constraints:
 none
