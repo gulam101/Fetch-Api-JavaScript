@@ -36,7 +36,7 @@ Using Fetch Api's for JS
 [Credits](#Credits)  
 <a name="Credits"/>
 ### Description: 
-Today I decided to focus on calling and catching API's. For the API, I used Reqres to test fake data that was being genereated and I converted the data to JSON format. I also used the 'Catch' command to log the error in the console log, allowing me to test the API and seeing the error being logged if there was a problem. The error would only be displayed if the API key was modified.
+Today I decided to focus on calling and catching API's. For the API, I used Reqres to test fake data that was being genereated and I converted the data to JSON format. I also used the 'Catch' command to log the error in the console log, allowing me to test the API and seeing the error being logged if there was a problem. The error would only be displayed if the API key was modified. If I wanted to see if the API was working, I could create response in the console log by using 'res.ok' and then passing a success message.
 
 ### Prerequisites:
 - Any Modern Browser (Preferably Chrome or Firefox)
