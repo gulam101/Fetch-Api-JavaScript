@@ -36,7 +36,7 @@ Using Fetch Api's for JS
 [Credits](#Credits)  
 <a name="Credits"/>
 ### Description: 
-I focus on JavaScript Local & Global scope. The main goal was to get an understanding of how the scope works within the function and how it works outside the function.
+Today I decided tp focus on calling and catching API's. For the API, I used Reqres to test fake data that was being genereated and I converted the data to JSON format.
 
 ### Prerequisites:
 - Any Modern Browser (Preferably Chrome or Firefox)
@@ -52,8 +52,9 @@ I focus on JavaScript Local & Global scope. The main goal was to get an understa
 - Step 6: Access browser console
 
 ### What I learned:
-- Local Scope within a function
-- Global Scope outside a function
+- Fecthing API
+- Using RES to send back HTTP response
+- Using catch to log the error
 
 ### Constraints:
 none
@@ -66,10 +67,9 @@ none
 Development changes tracks the changes that happend to the project. It orders it by date and description.
 
 ### Resources:
-https://www.youtube.com/watch?v=hTU1OSbnov8&ab_channel=DaniKrossing
+https://reqres.in/ (For test API)
 
 ### Screenshots:
-![js-local-img](https://user-images.githubusercontent.com/45819118/108855765-3d366b00-75e1-11eb-8c58-677d1584a18f.PNG)
+
 
 ### Credits:
-- Dani Krossing (For Tutorial)
